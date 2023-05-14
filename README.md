@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suttirak Pimsuk</h1>
 <h3 align="center">I'm Beginner programmer ,It's my Github :)</h3>
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/65f0bbb4a584882f352b2c53c67ed467-1599291835/FIV_kevin26611_2/draw-an-animated-pixel-background.gif" alt="" width="500px" height="300px" align="center";>
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/65f0bbb4a584882f352b2c53c67ed467-1599291835/FIV_kevin26611_2/draw-an-animated-pixel-background.gif" alt="" width="1000px" height="500px" align="center";>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiqik&label=Profile%20views&color=0e75b6&style=flat" alt="chiqik" /> </p>
