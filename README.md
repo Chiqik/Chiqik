@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suttirak Pimsuk</h1>
 <h3 align="center">I'm Beginner programmer ,It's my Github :)</h3>
-<img src="[https://media.tenor.com/vE9Frf36pasAAAAd/ultraman-anime.gif](https://media.tenor.com/YfjBT_lb2OEAAAAC/ultraman.gif)" alt="" width="500px" height="300px" align="center";>
+<img src="https://media.tenor.com/YfjBT_lb2OEAAAAC/ultraman.gif" alt="" width="500px" height="300px" align="center";>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiqik&label=Profile%20views&color=0e75b6&style=flat" alt="chiqik" /> </p>
